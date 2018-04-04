@@ -1,0 +1,54 @@
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\EthereumUtil.exe.config
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\EthereumUtil.exe
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\EthereumUtil.pdb
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\EthereumUtil.xml
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\ERC20CrowdSaleTest.vbprojResolveAssemblyReference.cache
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\EthereumUtil.Main.resources
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\EthereumUtil.Resources.resources
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\ERC20CrowdSaleTest.vbproj.GenerateResource.Cache
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\ERC20CrowdSaleTest.vbproj.CoreCompileInputs.cache
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\EthereumUtil.exe
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\EthereumUtil.xml
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\obj\Debug\EthereumUtil.pdb
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Common.Logging.Core.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\NBitcoin.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.ABI.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.Accounts.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.Contracts.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.HdWallet.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.Hex.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.JsonRpc.Client.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.KeyStore.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.RLP.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.RPC.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.Signer.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.Util.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Nethereum.Web3.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\System.Net.Http.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Common.Logging.Core.pdb
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\Common.Logging.Core.xml
+D:\Random Coding\ERC20 and CrowdSale Automated Test\WindowsApp1\bin\Debug\NBitcoin.xml
+D:\Random Coding\ERC20 Deployer\WindowsApp1\bin\Debug\EthereumUtil.exe.config
+D:\Random Coding\ERC20 Deployer\WindowsApp1\bin\Debug\EthereumUtil.exe
+D:\Random Coding\ERC20 Deployer\WindowsApp1\bin\Debug\EthereumUtil.pdb
+D:\Random Coding\ERC20 Deployer\WindowsApp1\bin\Debug\EthereumUtil.xml
+D:\Random Coding\ERC20 Deployer\WindowsApp1\bin\Debug\Nethereum.Portable.dll
+D:\Random Coding\ERC20 Deployer\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Random Coding\ERC20 Deployer\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\EthereumUtil.inputbox.resources
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\EthereumUtil.Main.resources
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\EthereumUtil.Resources.resources
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\ERC20CrowdSaleTest.vbproj.GenerateResource.Cache
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\ERC20CrowdSaleTest.vbproj.CoreCompileInputs.cache
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\EthereumUtil.exe
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\EthereumUtil.xml
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\EthereumUtil.pdb
+D:\Random Coding\ERC20 Deployer\WindowsApp1\obj\Debug\ERC20CrowdSaleTest.vbprojResolveAssemblyReference.cache
