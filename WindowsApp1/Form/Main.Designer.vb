@@ -35,6 +35,8 @@ Partial Class Main
         Me.txtDecimals = New System.Windows.Forms.TextBox()
         Me.txtSymbol = New System.Windows.Forms.TextBox()
         Me.txtName = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.txtAddress = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'btnDeploy
@@ -140,11 +142,30 @@ Partial Class Main
         Me.txtName.Size = New System.Drawing.Size(247, 31)
         Me.txtName.TabIndex = 2
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(375, 320)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(260, 25)
+        Me.Label1.TabIndex = 13
+        Me.Label1.Text = "Deployed Token Address:"
+        '
+        'txtAddress
+        '
+        Me.txtAddress.Location = New System.Drawing.Point(641, 317)
+        Me.txtAddress.Name = "txtAddress"
+        Me.txtAddress.ReadOnly = True
+        Me.txtAddress.Size = New System.Drawing.Size(456, 31)
+        Me.txtAddress.TabIndex = 14
+        '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(12.0!, 25.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1119, 902)
+        Me.Controls.Add(Me.txtAddress)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.txtName)
         Me.Controls.Add(Me.txtSymbol)
         Me.Controls.Add(Me.txtDecimals)
@@ -179,4 +200,6 @@ Partial Class Main
     Friend WithEvents txtDecimals As TextBox
     Friend WithEvents txtSymbol As TextBox
     Friend WithEvents txtName As TextBox
+    Friend WithEvents Label1 As Label
+    Friend WithEvents txtAddress As TextBox
 End Class
